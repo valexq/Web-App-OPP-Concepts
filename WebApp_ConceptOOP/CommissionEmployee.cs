@@ -26,3 +26,4 @@ namespace WebApp_ConceptOOP
                 $"Get Value To Pay............{GetValueToPay():C2}";
         }
     }
+}
